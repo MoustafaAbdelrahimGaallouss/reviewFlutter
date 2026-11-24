@@ -1,6 +1,10 @@
-# projecrt1
+# reviewFlutter
 
-A new Flutter project.
+Repository for reviewing Flutter code, including UI, Cubit, and API work.
+
+## Birthday Card
+
+A Flutter birthday card project.
 
 ## Getting Started
 
